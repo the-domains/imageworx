@@ -1,0 +1,28 @@
+name: IMAGEWORX
+favicon: null
+layout_spectrum: 0.5961321503855288
+typography_spectrum: 0.3153597810305655
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9856970945838839
+  lightness: 0.027977014891803265
+  saturation: 0.5587583428714424
+  rhythmicContrast: 0.20417717145755887
+purpose: []
